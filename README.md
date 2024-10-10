@@ -1,7 +1,5 @@
 # Neural Collaborative Filtering Recommender System
 
-This project demonstrates how to build a recommender system using **Neural Collaborative Filtering (NCF)** based on implicit feedback data (user interactions). The model is trained to predict products that users are likely to interact with, based on historical user-item interactions.
-
 ## Key Features
 - **Model Type:** Neural Collaborative Filtering with implicit feedback.
 - **Evaluation Metric:** Hit Ratio@10 (HR@10).
